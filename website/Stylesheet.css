@@ -1,0 +1,121 @@
+
+
+
+h3 {
+	font-size:20px;
+	font-family: Times-new-roman;
+	font-weight: bold;
+}
+
+
+h2 {
+	font-size: 16px;
+	font-family: Times-new-roman;
+	
+}
+
+h1 { 
+	font-size: 16px;
+	font-family:Times-new-roman;
+	color: white;
+}
+
+p {
+	font-size:16px;
+	font-family: Times-new-roman;
+	color: black;
+}
+
+footer {
+	padding:10px;
+	background-color:DarkSlateBlue;
+	font:black;
+	font-family:Times-new-roman;
+	font-weight:bold;
+	text-align:center;
+	padding:3px;
+}
+
+.header {
+	size: 20px;
+  padding: 20px;
+  text-align: center;
+  background:DarkSlateBlue;
+  bottom:white;
+}
+
+.body {
+	padding: 5px;
+	background: grey;
+	border: 10px, black;
+	
+}
+
+.divider {
+	padding:2px;
+	color: grey;
+	background: black;
+	
+}
+
+.textbox {
+	padding:25px;
+	background: white;
+}
+
+p {
+	
+	font-family: Times-new-roman;
+	font-size: 16px;
+	text-align:left;
+}
+
+	
+
+.imagesRight {
+	float: right;
+	margin: 40px;
+}
+
+table,hr,td {
+	font-style:Times-new-roman;
+	font-size: 16px ;
+	border:1px solid black;
+	border:collapse;
+}
+
+nav {
+	padding:10px;
+	background-color:DarkSlateBlue;
+	text-align:center;
+}
+
+.end {
+	float:center;
+}
+
+.Tags {
+	background-color:#FDFD96;
+}
+
+
+
+a:link{
+	color: white;
+	text-decoration:none;
+}
+
+a:hover{
+	color:blue;
+	text-decoration:none;
+}
+
+a:visited{
+	color:grey;
+	text-decoration:none;
+}
+
+a:active{
+	color:white;
+	text-decoration:none;
+}
